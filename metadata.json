@@ -1,0 +1,6 @@
+{
+  "name": "Technology Empire",
+  "description": "El simulador tycoon tecnológico, científico, empresarial y de civilización más avanzado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
